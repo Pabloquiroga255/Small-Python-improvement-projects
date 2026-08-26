@@ -4,7 +4,7 @@ while True:
   print("1. REGISTRAR ESTUDIANTE") 
   print("2. VER ESTUDIANTES")
   print("3. BUSCAR ESTUDIANTES")
-  print("4. SALIR)
+  print("4. SALIR")
         opcion = input("Seleccione una opción: ")
 
     if opcion == "1":
